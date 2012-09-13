@@ -1,0 +1,1 @@
+Simple admin module for editing a user's role, the list of roles and the list of resources.
